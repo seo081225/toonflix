@@ -17,7 +17,7 @@ class ApiService {
       for (var webtoon in webtoons) {
         webtoonInstances.add(WebtoonModel.fromJson(webtoon));
       }
-      print(webtoonInstances);
+      // print(webtoonInstances);
       return webtoonInstances;
     }
     throw Error();
