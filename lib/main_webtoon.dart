@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:toonflix/screens/home.dart';
+import 'package:toonflix/screens/webtoon_home_screen.dart';
 
 void main() {
   runApp(const App());
